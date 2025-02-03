@@ -41,4 +41,4 @@
 # print(message)
 username = input("What is your name")
 userage = input("What is your age")
-print(str)
+print(str(username))
