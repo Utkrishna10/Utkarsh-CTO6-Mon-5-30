@@ -20,9 +20,9 @@
 # print(100 * reply)
 # age = int(input("what is your age?"))
 # print("Your age is: " + str(int(age) + 1))
-# firstname = input("What is your first name?")
-# lastname = input("What is your last name?")
-# print(firstname,lastname)
+firstname = input("What is your first name?")
+lastname = input("What is your last name?")
+print(firstname,lastname)
 # qty = 2
 # amt = 17.95
 # print("total cost: $" , qty * amt)
@@ -32,7 +32,7 @@
 # print(str(num1) + " + " + str(num2) + " = " + str(ans))
 # num = int(input("what is your num?"))
 # print("Your num is: " + str(int(num) * 2))
-year = int(input("Which year were you born?"))
-yearcur = int(input("What is the year today?"))
-age1 = yearcur - year
-print("This year you are/will be: " + str(int(age1)))
+# year = int(input("Which year were you born?"))
+# yearcur = int(input("What is the year today?"))
+# age1 = yearcur - year
+# print("This year you are/will be: " + str(int(age1)))
