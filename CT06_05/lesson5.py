@@ -9,3 +9,5 @@
 # for abc in name1:
 #     print("Give me a",abc+"!")
 # print("What do we have?",name1+"!")
+for count in range(100):
+    print
