@@ -40,4 +40,5 @@
 # message=10
 # print(message)
 username = input("What is your name")
-userage = input("W")
+userage = input("What is your age")
+print()
