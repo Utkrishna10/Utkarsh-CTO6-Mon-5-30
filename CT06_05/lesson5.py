@@ -11,3 +11,5 @@
 # print("What do we have?",name1+"!")
 # for count in range(100):
 #     print("I like chicken rice!")
+for count in range(100):
+    print
