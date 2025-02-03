@@ -7,5 +7,5 @@
 #     print("I will not sling mud at my friends again.")
 name1 = input("What is your name?")
 for abc in name1:
-    print("Give me a ",abc)
+    print("Give me a",abc)
 print("What do we have?",name1+"!")
