@@ -12,4 +12,4 @@
 # for count in range(100):
 #     print("I like chicken rice!")
 for count in range(100):
-    print
+    print("I like cake")
