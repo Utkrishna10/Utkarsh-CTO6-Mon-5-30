@@ -20,9 +20,9 @@
 # print(100 * reply)
 # age = int(input("what is your age?"))
 # print("Your age is: " + str(int(age) + 1))
-firstname = input("What is your first name?")
-lastname = input("What is your last name?")
-print(firstname,lastname)
+# firstname = input("What is your first name?")
+# lastname = input("What is your last name?")
+# print(firstname,lastname)
 # qty = 2
 # amt = 17.95
 # print("total cost: $" , qty * amt)
