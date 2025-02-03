@@ -38,4 +38,4 @@
 # print("This year you are/will be: " + str(int(age1)))
 message="hello"
 message=10
-print(massage)
+print(message)
