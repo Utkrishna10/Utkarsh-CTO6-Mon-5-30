@@ -4,4 +4,4 @@
 # personal = input("What would you like to tell them? ")
 # print("Happy",age+"th birthday",name+"!",personal+"!")
 for count in range(500):
-    print("I will not sling mud at my friends again")
+    print("I will not sling mud at my friends again.")
