@@ -5,4 +5,4 @@
 # print("Happy",age+"th birthday",name+"!",personal+"!")
 # for count in range(500):
 #     print("I will not sling mud at my friends again.")
-name1 = input("What is your name")
+name1 = input("What is your name?")
