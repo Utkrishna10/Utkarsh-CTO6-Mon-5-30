@@ -39,4 +39,4 @@
 # message="hello"
 # message=10
 # print(message)
-username=i
+username = input
