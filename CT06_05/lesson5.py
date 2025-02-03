@@ -7,4 +7,4 @@
 #     print("I will not sling mud at my friends again.")
 name1 = input("What is your name?")
 for char in name1:
-    print("Give me a ")
+    print("Give me a ",char)
