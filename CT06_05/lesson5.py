@@ -1,5 +1,5 @@
 # print("Hello from lesson 5")
 name = input("What is your name? ")
 age = input("What is your age this year? ")
-personal = input("What would you like to tell them")
-print("Happy",age+"th birthday",name+"! Have a happy rest of the year!")
+personal = input("What would you like to tell them? ")
+print("Happy",age+"th birthday",name+"!")
