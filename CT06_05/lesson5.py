@@ -8,4 +8,4 @@
 name1 = input("What is your name?")
 for abc in name1:
     print("Give me a ",abc)
-print("W")
+print("What do we have? Dave")
