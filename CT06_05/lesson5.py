@@ -41,9 +41,9 @@
 #     for count in range(int(start),int(stop)): 
 #         print(count)
 # If start is bigger than stop the the program will not make the list.
-num = 0
-sum = 0
-for count in range(10):
-    sum = num + sum
-    num = num + 1
-print(sum)
+# num = 0
+# sum = 0
+# for count in range(10):
+#     sum = num + sum
+#     num = num + 1
+# print(sum)
