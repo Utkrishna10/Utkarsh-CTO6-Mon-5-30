@@ -35,4 +35,4 @@
 # start = input("Number 1? ")
 # stop = input("Number 2? ")
 # for count in range(int(start),int(stop)): 
-#     print(count) if 
+#     print(count) if start is bigger than stop the the program will not make the list.
