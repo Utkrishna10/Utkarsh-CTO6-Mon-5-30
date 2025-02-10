@@ -34,3 +34,5 @@
 # print("Boo!")
 start = input("Number 1? ")
 stop = input("Number 2? ")
+for count in range(start,97,8):
+    print(count)
