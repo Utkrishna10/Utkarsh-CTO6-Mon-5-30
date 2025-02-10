@@ -14,3 +14,5 @@
 # for count in range(100):
 #     print("I like cake")
 #     print("Give me more")
+for count in range(1,5):
+    print(count)
