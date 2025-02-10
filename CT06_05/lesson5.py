@@ -21,4 +21,4 @@
 # for count in range(2,24,2):
 #     print(count)
 for count in range(18,30):
-    p
+    print(count)
