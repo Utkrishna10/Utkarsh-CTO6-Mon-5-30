@@ -29,6 +29,6 @@
 # print("Ready!")
 # for count in range(3,0,-1):
 #     print(count)
-for count in range(10,0,-1):
-    print(count)
-print("Boo!")
+# for count in range(10,0,-1):
+#     print(count)
+# print("Boo!")
