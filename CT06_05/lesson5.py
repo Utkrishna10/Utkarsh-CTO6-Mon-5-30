@@ -44,6 +44,6 @@
 num = 0
 sum = 0
 for count in range(10):
-    sum = x + sum
+    sum = num + sum
     num = num + 1
 print(sum)
