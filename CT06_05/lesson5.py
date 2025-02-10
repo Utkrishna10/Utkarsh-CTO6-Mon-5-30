@@ -22,5 +22,5 @@
 #     print(count)
 # for count in range(18,30):
 #     print(count)
-for count in range(8,97,8):
-    print(count)
+# for count in range(8,97,8):
+#     print(count)
