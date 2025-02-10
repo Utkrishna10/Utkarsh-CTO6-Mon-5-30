@@ -33,3 +33,4 @@
 #     print(count)
 # print("Boo!")
 start = input("Number 1?")
+stop = input("Number 2?")
