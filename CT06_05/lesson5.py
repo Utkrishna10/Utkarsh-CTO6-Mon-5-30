@@ -32,5 +32,5 @@
 # for count in range(10,0,-1):
 #     print(count)
 # print("Boo!")
-start = input("Number 1?") 
-stop = input("Number 2?")
+start = input("Number 1? ")
+stop = input("Number 2? ")
