@@ -41,3 +41,5 @@
 #     for count in range(int(start),int(stop)): 
 #         print(count)
 # If start is bigger than stop the the program will not make the list.
+num = 0
+sum = 
