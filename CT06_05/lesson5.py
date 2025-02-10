@@ -19,4 +19,4 @@
 # for count in range(51,101):
 #     print(count)
 for count in range(2,24,2):
-    print
+    print(count)
