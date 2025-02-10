@@ -32,8 +32,12 @@
 # for count in range(10,0,-1):
 #     print(count)
 # print("Boo!")
-# start = input("Number 1? ")
-# stop = input("Number 2? ")
-# for count in range(int(start),int(stop)): 
-#     print(count)
+start = input("Number 1? ")
+stop = input("Number 2? ")
+if start > stop:
+    for count in range(int(start),int(stop),-1): 
+        print(count)
+else:
+    for count in range(int(start),int(stop)): 
+        print(count)
 # If start is bigger than stop the the program will not make the list.
