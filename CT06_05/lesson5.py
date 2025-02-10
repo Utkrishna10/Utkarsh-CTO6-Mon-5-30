@@ -46,4 +46,4 @@ sum = 0
 for count in range(10):
     sum = x + sum
     x = x + 1
-print()
+print(sum)
