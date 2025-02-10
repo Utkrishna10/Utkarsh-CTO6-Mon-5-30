@@ -29,5 +29,5 @@
 # print("Ready!")
 # for count in range(3,0,-1):
 #     print(count)
-for count in range(10,97,8):
+for count in range(10,0,-1):
     print(count)
