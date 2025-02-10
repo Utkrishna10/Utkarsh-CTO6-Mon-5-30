@@ -43,7 +43,7 @@
 # If start is bigger than stop the the program will not make the list.
 num = 0
 sum = 0
-for count in range(10):
+for count in range(2773763):
     sum = num + sum
     num = num + 1
 print(sum)
