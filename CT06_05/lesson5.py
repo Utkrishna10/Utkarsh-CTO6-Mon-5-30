@@ -26,6 +26,6 @@
 #     print(count)
 # for count in range(5,0,-1):
 #     print(count)
-print("Ready!")
-for count in range(3,0,-1):
-    print(count)
+# print("Ready!")
+# for count in range(3,0,-1):
+#     print(count)
