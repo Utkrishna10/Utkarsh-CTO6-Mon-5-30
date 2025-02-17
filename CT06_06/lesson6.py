@@ -12,3 +12,4 @@
 #  print("Hello, World!")
 #  frr = 5
 # print ("Hello, World!")
+print(age)
