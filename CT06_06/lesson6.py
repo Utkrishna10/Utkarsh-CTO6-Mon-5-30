@@ -19,7 +19,7 @@
 # x = 5
 # print(x)
 # print("Hello, World!")
-age = int(25)
-print(age + 1)
+# age = int(25)
+# print(age + 1)
 number = 10
 print(number - "5")
