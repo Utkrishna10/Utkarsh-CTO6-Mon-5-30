@@ -28,7 +28,6 @@
 # print("The year is " + year)
 # x = 10
 # y = x / 2
-end = 5
-for i in range(end):
-    print(i)
-tim
+# end = 5
+# for i in range(end):
+#     print(i)
