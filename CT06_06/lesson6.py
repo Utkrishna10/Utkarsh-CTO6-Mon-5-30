@@ -26,5 +26,8 @@
 # print("Repeat" * 3)
 # year = str(2023)
 # print("The year is " + year)
-x = 10
-y = x / 2
+# x = 10
+# y = x / 2
+end = 5
+for i in range(end):
+    print(i)
