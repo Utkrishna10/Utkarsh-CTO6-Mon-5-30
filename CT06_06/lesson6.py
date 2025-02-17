@@ -23,4 +23,6 @@
 # print(age + 1)
 # number = 10
 # print(number - 5)
-print("Repeat" * 3)
+# print("Repeat" * 3)
+year = str(2023)
+print("The year is " + year)
