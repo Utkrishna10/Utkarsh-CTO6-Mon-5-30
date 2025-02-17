@@ -4,4 +4,4 @@ numscore = 0
 for i in numstudent:
     score = int(input("What is your students score?"))
     numscore = numscore + score
-nu
+print(numscore / numstudent
