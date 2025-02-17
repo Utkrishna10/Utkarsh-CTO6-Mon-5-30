@@ -24,5 +24,7 @@
 # number = 10
 # print(number - 5)
 # print("Repeat" * 3)
-year = str(2023)
-print("The year is " + year)
+# year = str(2023)
+# print("The year is " + year)
+x = 10
+y = x / 2
