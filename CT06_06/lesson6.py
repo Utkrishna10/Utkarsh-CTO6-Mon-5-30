@@ -4,9 +4,9 @@
 # for i in range(numstudent):
 #    score = int(input("What is your students score? "))
 #    numscore = numscore + score
-#   print("Your classes average score is",numscore / numstudent)
-#  for i in range(3):
-#      print("Hello, World!")
+# print("Your classes average score is",numscore / numstudent)
+# for i in range(3):
+#   print("Hello, World!")
 #  for i in range(5):
 #      print(i)
 #  print("Hello, World!")
