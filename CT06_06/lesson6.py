@@ -19,3 +19,5 @@
 # x = 5
 # print(x)
 # print("Hello, World!")
+age = 25
+print(age + 1)
