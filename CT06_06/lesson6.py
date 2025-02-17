@@ -2,4 +2,4 @@
 numstudent = int(input("How many students do you have"))
 numscore = 0
 for i in numstudent:
-    score = int(input())
+    score = int(input("What is "))
