@@ -6,9 +6,9 @@
 #    numscore = numscore + score
 # print("Your classes average score is",numscore / numstudent)
 # for i in range(3):
-#   print("Hello, World!")
-#  for i in range(5):
-#      print(i)
+#    print("Hello, World!")
+# for i in range(5):
+#    print(i)
 #  print("Hello, World!")
 #  frr = 5
 # print ("Hello, World!")
