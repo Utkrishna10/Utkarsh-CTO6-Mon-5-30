@@ -14,3 +14,5 @@
 # print ("Hello, World!")
 # age = 3
 # print(age)
+name = "Alice"
+print(name)
