@@ -14,5 +14,8 @@
 # print ("Hello, World!")
 # age = 3
 # print(age)
-name = "Alice"
-print(name)
+# name = "Alice"
+# print(name)
+x = 5
+print(x)
+x = 5
