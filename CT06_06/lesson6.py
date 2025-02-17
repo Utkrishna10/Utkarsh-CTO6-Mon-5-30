@@ -1,7 +1,7 @@
 # print("Hello from lesson 6")
-numstudent = (input("How many students do you have?"))
+numstudent = input("How many students do you have? ")
 numscore = 0
 for i in numstudent:
-    score = int(input("What is your students score?"))
+    score = int(input("What is your students score? "))
     numscore = numscore + score
-print(numscore / numstudent)
+print(numscore / int(numstudent))
