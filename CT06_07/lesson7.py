@@ -35,3 +35,4 @@
 #     print(str(i) * i)
 for i in range(5):
     i = int(input("What is your number "))
+total = 1
