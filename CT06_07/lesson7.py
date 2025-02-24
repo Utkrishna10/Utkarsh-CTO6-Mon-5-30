@@ -34,4 +34,4 @@
 # for i in range(no + 1):
 #     print(str(i) * i)
 for i in range(5):
-    no(i) = int(input("What is your number "))
+    i = int(input("What is your number "))
