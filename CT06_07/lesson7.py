@@ -34,6 +34,6 @@
 # for i in range(no + 1):
 #     print(str(i) * i)
 for i in range(5):
-    no+i = int(input("What is your number "))
+    noi = int(input("What is your number "))
 total = no1 + no2 + no3 + no4 + no5
 print("Your students average score is",int(total)/5)
