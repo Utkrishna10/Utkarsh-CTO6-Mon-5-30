@@ -20,4 +20,4 @@
 # no = int(input("How many times would to like me to print it "))
 # for i in range(no):
 #     print("Nice to meet you",name)
-no1 = input("wha")
+no1 = input("What is your number 1 ")
