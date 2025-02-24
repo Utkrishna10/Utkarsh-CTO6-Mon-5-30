@@ -36,3 +36,4 @@
 for i in range(5):
     i = int(input("What is your number "))
 total = 1 + 2 + 3 + 4 + 5
+print(int())
