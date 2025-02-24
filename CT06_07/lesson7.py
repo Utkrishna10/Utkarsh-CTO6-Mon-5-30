@@ -21,8 +21,8 @@
 # for i in range(no):
 #     print("Nice to meet you",name)
 no1 = int(input("What is your number 1 "))
-no2 = input("What is your number 2 ")
-no3 = input("What is your number 3 ")
+no2 = int(input("What is your number 2 "))
+no3 = int(input("What is your number 3 "))
 no4 = input("What is your number 4 ")
 no5 = input("What is your number 5 ")
 total = no1 + no2 + no3 + no4 + no5
