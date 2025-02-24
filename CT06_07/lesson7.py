@@ -28,5 +28,5 @@
 # total = no1 + no2 + no3 + no4 + no5
 # print("The sum of your numbers are",total)
 time = int(input("What is your number "))
-for i in range(1,12):
+for i in range(1,13):
     print(time * i)
