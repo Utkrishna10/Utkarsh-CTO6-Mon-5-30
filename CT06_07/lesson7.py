@@ -22,3 +22,6 @@
 #     print("Nice to meet you",name)
 no1 = input("What is your number 1 ")
 no2 = input("What is your number 2 ")
+no3 = input("What is your number 3 ")
+no1 = input("What is your number 1 ")
+no1 = input("What is your number 1 ")
