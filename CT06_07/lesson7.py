@@ -8,3 +8,7 @@
 # print("Average score for " + student_name + " is: " + str(average_score))
 # for i in range(10,0,-1):
 #     print(i)
+word = input("What word would you like me to print ")
+no = int(input("How many times would to like me to print it "))
+for i in range(no):
+    print(word)
