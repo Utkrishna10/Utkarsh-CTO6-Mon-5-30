@@ -21,3 +21,4 @@
 # for i in range(no):
 #     print("Nice to meet you",name)
 no1 = input("What is your number 1 ")
+no2 = input("What is your number 2 ")
