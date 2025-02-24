@@ -32,4 +32,4 @@
 #     print(time * i)
 no = int(input("What is your number "))
 for i in range(no + 1):
-    print(i * i)
+    print("ini" * i)
