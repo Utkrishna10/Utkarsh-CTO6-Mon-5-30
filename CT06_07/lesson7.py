@@ -30,4 +30,4 @@
 # time = int(input("What is your number "))
 # for i in range(1,13):
 #     print(time * i)
-no = int(input())
+no = int(input("What is your number "))
