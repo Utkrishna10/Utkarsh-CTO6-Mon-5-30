@@ -21,11 +21,7 @@
 # for i in range(no):
 #     print("Nice to meet you",name)
 for i in range(5):
-    no1 = int(input("What is your number 1 "))
-    no2 = int(input("What is your number 2 "))
-    no3 = int(input("What is your number 3 "))
-    no4 = int(input("What is your number 4 "))
-    no5 = int(input("What is your number 5 "))
+    no1 = int(input("What is your number "))
 # total = no1 + no2 + no3 + no4 + no5
 # print("The sum of your numbers are",total)
 # time = int(input("What is your number "))
