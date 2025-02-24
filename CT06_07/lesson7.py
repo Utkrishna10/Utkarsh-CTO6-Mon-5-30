@@ -33,8 +33,8 @@
 # no = int(input("What is your number "))
 # for i in range(no + 1):
 #     print(str(i) * i)
-total = 0
-for i in range(5):
-    i = int(input("What is your number "))
-    total = total + i
-print("Your students average score is",int(total)/5)
+# total = 0
+# for i in range(5):
+#     i = int(input("What is your number "))
+#     total = total + i
+# print("Your students average score is",int(total)/5)
