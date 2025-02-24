@@ -25,4 +25,5 @@ no2 = input("What is your number 2 ")
 no3 = input("What is your number 3 ")
 no4 = input("What is your number 4 ")
 no5 = input("What is your number 5 ")
-print("The sum of your numbers are",)
+total = no1 + no2 + no3 + no4 + no5
+print("The sum of your numbers are",total)
