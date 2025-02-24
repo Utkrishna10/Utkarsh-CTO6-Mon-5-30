@@ -33,3 +33,5 @@
 # no = int(input("What is your number "))
 # for i in range(no + 1):
 #     print(str(i) * i)
+for i in range(5):
+    no()
