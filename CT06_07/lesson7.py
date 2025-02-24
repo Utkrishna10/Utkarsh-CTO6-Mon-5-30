@@ -24,4 +24,5 @@ no1 = input("What is your number 1 ")
 no2 = input("What is your number 2 ")
 no3 = input("What is your number 3 ")
 no4 = input("What is your number 4 ")
-no1 = input("What is your number 5 ")
+no5 = input("What is your number 5 ")
+print 
