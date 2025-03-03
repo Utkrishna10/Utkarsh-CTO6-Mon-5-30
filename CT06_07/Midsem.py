@@ -1,3 +1,3 @@
 # q1
-name = input()
+name = input("What is your name? ")
 # q2
