@@ -1,4 +1,4 @@
 # q1
 name = input("What is your name? ")
-print("")
+print("Nice to meet ")
 # q2
