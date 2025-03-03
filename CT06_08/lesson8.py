@@ -4,4 +4,4 @@ for count in range(5):
     num = input("Give me a number")
     num = int(num)
     product = product * num
-print("The final result is", )
+print("The final result is", str(product))
