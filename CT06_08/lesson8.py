@@ -5,9 +5,9 @@
 #     num = int(num)
 #     product = product * num
 # print("The final result is", str(product))
-import time
-start = int(input("What would you like to start at? "))
-for i in range(start,0,-1):
-    print(i)
-    time.sleep(1)
-print("Liftoff!")
+# import time
+# start = int(input("What would you like to start at? "))
+# for i in range(start,0,-1):
+#     print(i)
+#     time.sleep(1)
+# print("Liftoff!")
