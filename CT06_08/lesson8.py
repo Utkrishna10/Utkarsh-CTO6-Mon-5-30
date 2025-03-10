@@ -28,7 +28,7 @@ import random
 # hidden = int(num1) + int(num2)
 # print(cor == hidden)
 num = random.randint(1,50)
-corr1 = input()
+corr1 = input("What number would you like to start at? ")
 corr = num >= 10
 fal = num <= 40
 print(corr == fal)
