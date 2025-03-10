@@ -24,5 +24,5 @@ num1 = random.randint(1,100)
 num2 = random.randint(1,100)
 test = "What is", num1,"+",num2,"?" 
 cor = (input(test))
-hidden = int(num1)+int(num2)
+hidden = int(num1) + int(num2)
 print(cor == hidden)
