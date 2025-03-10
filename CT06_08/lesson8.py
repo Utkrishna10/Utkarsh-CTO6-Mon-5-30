@@ -19,5 +19,5 @@ import random
 #     print(x)
 if 3 > 4:
     var = True
-    r = 2
+    vars = False
 print(var)
