@@ -5,7 +5,7 @@
 #     num = int(num)
 #     product = product * num
 # print("The final result is", str(product))
-# import time
+import time
 # start = int(input("What would you like to start at? "))
 # for i in range(start,0,-1):
 #     print(i)
