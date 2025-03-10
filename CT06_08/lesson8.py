@@ -16,3 +16,4 @@ import random
 # print(num)
 for i in range(1,20):
     i = random.randint(0,9999)
+    print(i)
