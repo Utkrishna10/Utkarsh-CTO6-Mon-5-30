@@ -20,6 +20,7 @@ import random
 # var = True
 # varss = False
 # print(var == varss)
-num1 = random.randint()
+num1 = random.randint(1,100)
+num1 = random.randint(1,100)
 cor = int(input("What is 5*6? "))
 print(cor == 30)
