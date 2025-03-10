@@ -5,5 +5,7 @@
 #     num = int(num)
 #     product = product * num
 # print("The final result is", str(product))
+import time
+
 for i in range(10,0,-1):
     print(i)
