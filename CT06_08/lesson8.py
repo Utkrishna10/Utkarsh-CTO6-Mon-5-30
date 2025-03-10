@@ -22,4 +22,4 @@ import random
 # print(var == varss)
 cor = int(input("What is 5*6? "))
 30 = True
-print(cor)
+print(cor == 30)
