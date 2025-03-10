@@ -28,7 +28,7 @@ import random
 # hidden = int(num1) + int(num2)
 # print(cor == hidden)
 num = random.randint(1,50)
-corr = num > 3
-fal = num < 47
+corr = num >= 10
+fal = num <= 40
 print(corr == fal)
 print(num)
