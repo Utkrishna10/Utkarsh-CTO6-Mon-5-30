@@ -15,5 +15,5 @@ import random
 # num = random.randint(1,6)
 # print(num)
 for i in range(1,20):
-    i = random.randint(0,9999)
-    print(i)
+    x = random.randint(0,9999)
+    print(x)
