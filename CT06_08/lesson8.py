@@ -6,7 +6,7 @@
 #     product = product * num
 # print("The final result is", str(product))
 import time
-start = input("What would y")
+start = input("What would you like to start at? ")
 for i in range(10,0,-1):
     print(i)
     time.sleep(1)
