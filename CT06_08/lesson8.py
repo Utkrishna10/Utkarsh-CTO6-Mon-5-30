@@ -12,4 +12,4 @@
 #     time.sleep(1)
 # print("Liftoff!")
 import random
-num = random.randint
+num = random.randint(1,9)
