@@ -19,3 +19,5 @@ import random
 #     print(x)
 if 3 > 4:
     var = 1
+    var = 2
+print(var)
