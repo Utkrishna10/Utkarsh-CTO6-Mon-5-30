@@ -20,4 +20,4 @@ import random
 if 3 > 4:
     var = True
     vars = False
-print(var)
+print(True)
