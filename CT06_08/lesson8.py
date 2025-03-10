@@ -18,4 +18,5 @@ import random
 #     x = random.randint(0,9999)
 #     print(x)
 var = True
+varss = True
 print(var)
