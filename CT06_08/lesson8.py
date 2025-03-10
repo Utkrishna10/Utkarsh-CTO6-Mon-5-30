@@ -6,4 +6,4 @@
 #     product = product * num
 # print("The final result is", str(product))
 for i in range(10,0,-1):
-    
+    print(i)
