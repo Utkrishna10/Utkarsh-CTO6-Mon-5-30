@@ -29,3 +29,4 @@ import random
 # print(cor == hidden)
 num = random.randint(1,50)
 corr = num > 3
+fal = num <
