@@ -21,6 +21,7 @@ import random
 # varss = False
 # print(var == varss)
 num1 = random.randint(1,100)
-num1 = random.randint(1,100)
-cor = int(input("What is 5*6? "))
-print(cor == 30)
+num2 = random.randint(1,100)
+cor = int(input("What is", num1,"*",num2,"?" ))
+hidden = int(num1)+int(num2)
+print(cor == hidden)
