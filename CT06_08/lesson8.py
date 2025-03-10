@@ -30,4 +30,4 @@ import random
 num = random.randint(1,50)
 corr = num > 3
 fal = num < 47
-print()
+print(corr == fal)
