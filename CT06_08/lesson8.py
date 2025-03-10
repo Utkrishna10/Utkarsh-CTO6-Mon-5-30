@@ -20,3 +20,4 @@ import random
 # var = True
 # varss = False
 # print(var == varss)
+cor = int
