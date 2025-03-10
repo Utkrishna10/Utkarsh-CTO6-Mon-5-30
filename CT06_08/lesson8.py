@@ -14,6 +14,6 @@ import time
 import random
 # num = random.randint(1,6)
 # print(num)
-for i in range(1,20):
-    x = random.randint(0,9999)
-    print(x)
+# for i in range(1,20):
+#     x = random.randint(0,9999)
+#     print(x)
