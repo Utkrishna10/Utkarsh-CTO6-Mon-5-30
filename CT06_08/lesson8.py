@@ -17,6 +17,6 @@ import random
 # for i in range(1,20):
 #     x = random.randint(0,9999)
 #     print(x)
-var = True
-varss = False
-print(var == varss)
+# var = True
+# varss = False
+# print(var == varss)
