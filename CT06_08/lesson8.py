@@ -20,10 +20,10 @@ import random
 # var = True
 # varss = False
 # print(var == varss)
-num1 = random.randint(1,100)
-num2 = random.randint(1,100)
-test = "What is", num1,"+",num2,"?"
-cor = input(test)
-cor = int(cor)
-hidden = int(num1) + int(num2)
-print(cor == hidden)
+# num1 = random.randint(1,100)
+# num2 = random.randint(1,100)
+# test = "What is", num1,"+",num2,"?"
+# cor = input(test)
+# cor = int(cor)
+# hidden = int(num1) + int(num2)
+# print(cor == hidden)
