@@ -17,7 +17,3 @@ import random
 # for i in range(1,20):
 #     x = random.randint(0,9999)
 #     print(x)
-if 3 > 4:
-    var = True
-    vars = False
-print(True)
