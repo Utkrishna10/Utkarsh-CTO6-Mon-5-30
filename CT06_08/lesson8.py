@@ -27,3 +27,4 @@ import random
 # cor = int(cor)
 # hidden = int(num1) + int(num2)
 # print(cor == hidden)
+num = random.randitn
