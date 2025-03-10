@@ -20,4 +20,4 @@ import random
 if 3 > 4:
     varss = 1
     varss = 2
-print(var)
+print(varss)
