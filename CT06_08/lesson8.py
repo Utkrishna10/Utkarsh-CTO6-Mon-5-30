@@ -23,6 +23,6 @@ import random
 num1 = random.randint(1,100)
 num2 = random.randint(1,100)
 test = "What is", num1,"*",num2,"?" 
-cor = int(input("What is", num1,"*",num2,"?" ))
+cor = int(input(test))
 hidden = int(num1)+int(num2)
 print(cor == hidden)
