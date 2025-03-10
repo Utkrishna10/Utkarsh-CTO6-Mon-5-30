@@ -28,3 +28,4 @@ import random
 # hidden = int(num1) + int(num2)
 # print(cor == hidden)
 num = random.randint(1,50)
+corr = num > 3
