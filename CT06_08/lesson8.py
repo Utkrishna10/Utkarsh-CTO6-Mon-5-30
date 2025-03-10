@@ -18,6 +18,6 @@ import random
 #     x = random.randint(0,9999)
 #     print(x)
 if 3 > 4:
-    varss = 1
-    varss = 2
+    varss == 1
+    varss == 2
 print(varss)
