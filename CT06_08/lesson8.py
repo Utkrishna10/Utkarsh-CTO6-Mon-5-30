@@ -19,4 +19,4 @@ import random
 #     print(x)
 var = True
 varss = True
-print(var)
+print(var == varss)
