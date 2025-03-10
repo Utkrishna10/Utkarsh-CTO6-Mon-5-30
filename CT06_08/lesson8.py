@@ -7,7 +7,7 @@
 # print("The final result is", str(product))
 import time
 start = input("What would you like to start at? ")
-for i in range(10,0,-1):
+for i in range(start,0,-1):
     print(i)
     time.sleep(1)
 print("Liftoff!")
