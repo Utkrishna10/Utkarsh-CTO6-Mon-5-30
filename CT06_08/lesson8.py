@@ -20,4 +20,4 @@ import random
 # var = True
 # varss = False
 # print(var == varss)
-cor = int(input("What is "))
+cor = int(input("What is 5*6? "))
