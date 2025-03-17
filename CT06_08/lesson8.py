@@ -41,4 +41,4 @@ import random
 # else:
 #     print("The number was not inside your range.")
 # print("The number was",num)
-print
+print(10 % 4)
