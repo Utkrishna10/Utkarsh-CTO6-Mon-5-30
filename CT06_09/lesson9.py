@@ -5,4 +5,4 @@ num1 = int(input("What number from 1 to 10 do you think it is? "))
 if num == num1:
     print("Congradulations! You were correct!")
 else:
-    print()
+    print("Sorry. You were wrong. The correct answer was")
