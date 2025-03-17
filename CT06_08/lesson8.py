@@ -39,5 +39,5 @@ fal = num <= corr2
 if corr == fal:
     print("The number was inside your range!")
 else:
-    print("The number was not inside your range")
-print(num)
+    print("The number was not inside your range.")
+print("The number was",num)
