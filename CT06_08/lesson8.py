@@ -33,7 +33,7 @@ import random
 # print(cor == hidden)
 num = random.randint(1,50)
 corr1 = input("What number would you like to start at? ")
-corr = num >= 10
+corr = num >= 
 fal = num <= 40
 print(corr == fal)
 print(num)
