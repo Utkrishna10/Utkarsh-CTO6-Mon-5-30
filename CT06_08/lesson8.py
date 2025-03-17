@@ -35,7 +35,7 @@ num = random.randint(1,50)
 corr1 = input("What number would you like to start at? ")
 corr2 = input("What number would you like to end at? ")
 corr = num >= int(corr1)
-fal = num <= intcorr2
+fal = num <= int(corr2)
 if corr == fal:
     print("The number was inside your range!")
 else:
