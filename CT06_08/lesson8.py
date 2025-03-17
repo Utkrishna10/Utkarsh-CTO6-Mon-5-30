@@ -44,4 +44,4 @@ import random
 # print(10 % 4)
 # print(10 / 4)
 # print(10 // 4)
-even = inptu
+even = int(input())
