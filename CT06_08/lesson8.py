@@ -22,7 +22,8 @@ import random
 # print(var == varss)
 num1 = random.randint(1,100)
 num2 = random.randint(1,100)
-cor = input("What is", num1,"+",num2,"?")
+test = "What is", num1,"+",num2,"?"
+cor = input(test)
 cor = int(cor)
 hidden = int(num1) + int(num2)
 if cor == hidden:
@@ -30,9 +31,9 @@ if cor == hidden:
 else:
     print("Wrong")
 # print(cor == hidden)
-# num = random.randint(1,50)
-# corr1 = input("What number would you like to start at? ")
-# corr = num >= 10
-# fal = num <= 40
-# print(corr == fal)
-# print(num)
+num = random.randint(1,50)
+corr1 = input("What number would you like to start at? ")
+corr = num >= 10
+fal = num <= 40
+print(corr == fal)
+print(num)
