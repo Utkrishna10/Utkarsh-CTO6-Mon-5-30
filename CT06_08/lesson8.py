@@ -49,4 +49,4 @@ odd = even % 4
 if odd == 0:
     print("Your number is even!")
 else:
-    print()
+    print("Your number is odd")
