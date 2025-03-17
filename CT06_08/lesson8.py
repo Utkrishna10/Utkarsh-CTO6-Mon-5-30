@@ -20,16 +20,16 @@ import random
 # var = True
 # varss = False
 # print(var == varss)
-num1 = random.randint(1,100)
-num2 = random.randint(1,100)
-test = "What is", num1,"+",num2,"?"
-cor = input(test)
-cor = int(cor)
-hidden = int(num1) + int(num2)
-if cor == hidden:
-    print("Correct!")
-else:
-    print("Wrong")
+# num1 = random.randint(1,100)
+# num2 = random.randint(1,100)
+# test = "What is", num1,"+",num2,"?"
+# cor = input(test)
+# cor = int(cor)
+# hidden = int(num1) + int(num2)
+# if cor == hidden:
+#     print("Correct!")
+# else:
+#     print("Wrong")
 # print(cor == hidden)
 num = random.randint(1,50)
 corr1 = input("What number would you like to start at? ")
