@@ -34,8 +34,8 @@ import random
 num = random.randint(1,50)
 corr1 = input("What number would you like to start at? ")
 corr2 = input("What number would you like to end at? ")
-corr = num >= corr1
-fal = num <= corr2
+corr = num >= int(corr1)
+fal = num <= intcorr2
 if corr == fal:
     print("The number was inside your range!")
 else:
