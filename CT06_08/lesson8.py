@@ -27,7 +27,7 @@ cor = input(test)
 cor = int(cor)
 hidden = int(num1) + int(num2)
 if cor == hidden:
-    pr
+    print("")
 # print(cor == hidden)
 num = random.randint(1,50)
 corr1 = input("What number would you like to start at? ")
