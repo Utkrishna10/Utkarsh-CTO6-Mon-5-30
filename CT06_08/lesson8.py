@@ -43,3 +43,4 @@ import random
 # print("The number was",num)
 print(10 % 4)
 print(10 / 4)
+print(10 //)
