@@ -37,5 +37,7 @@ corr2 = input("What number would you like to end at? ")
 corr = num >= corr1
 fal = num <= corr2
 if corr == fal:
-    print("The number w")
+    print("The number was inside your range!")
+else:
+    print*
 print(num)
