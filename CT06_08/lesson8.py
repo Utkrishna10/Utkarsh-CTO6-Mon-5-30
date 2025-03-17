@@ -44,9 +44,9 @@ import random
 # print(10 % 4)
 # print(10 / 4)
 # print(10 // 4)
-even = int(input("What number do you want? "))
-odd = even % 4
-if odd == 0:
-    print("Your number is even!")
-else:
-    print("Your number is odd!")
+# even = int(input("What number do you want? "))
+# odd = even % 4
+# if odd == 0:
+#     print("Your number is even!")
+# else:
+#     print("Your number is odd!")
