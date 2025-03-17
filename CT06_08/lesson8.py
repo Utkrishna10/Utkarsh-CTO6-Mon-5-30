@@ -48,3 +48,5 @@ even = int(input("What number do you want? "))
 odd = even % 4
 if odd == 0:
     print("Your number is even!")
+else:
+    print()
