@@ -50,3 +50,7 @@ import random
 #     print("Your number is even!")
 # else:
 #     print("Your number is odd!")
+# if odd == 0:
+#     print("True")
+#  else:
+#     print("False")
