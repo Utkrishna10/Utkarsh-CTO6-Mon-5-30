@@ -1,3 +1,3 @@
 # print("Hello from lesson 9")
 import random
-num = ran
+num = random.randi
