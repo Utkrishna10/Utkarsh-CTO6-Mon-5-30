@@ -37,5 +37,5 @@ corr2 = input("What number would you like to end at? ")
 corr = num >= corr1
 fal = num <= corr2
 if corr == fal:
-    print("")
+    print("The number w")
 print(num)
