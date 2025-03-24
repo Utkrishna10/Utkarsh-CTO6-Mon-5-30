@@ -34,4 +34,4 @@ import random
 # else:
 #     print("Sorry. You were wrong. The correct answer was",num)
 password = "I like chips"
-passguess = input("What ")
+passguess = input("What do you think the password is? ")
