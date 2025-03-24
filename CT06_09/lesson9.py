@@ -24,4 +24,4 @@
 # print("The amount of days that you recorded a tempreture over 30 degrees in this week is", str(hotday)+". ")
 num = int(input("What number would you like to check? "))
 if num == 0:
-    print("This number is not posis")
+    print("This number is not positive or negative")
