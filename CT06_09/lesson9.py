@@ -26,4 +26,6 @@ num = int(input("What number would you like to check? "))
 if num == 0:
     print("This number is not positive or negative! ")
 if num > 0:
-    print("")
+    print("Your number is a positive number! ")
+else:
+    print()
