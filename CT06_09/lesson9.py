@@ -13,6 +13,6 @@ orange = orange * 0.90
 if apple >= 5:
     apple = apple/10 * 90
 if orange >= 5:
-    orange = orange/10 * 90
+    orange = orange * 0.9
 total = apple + orange
 print("The total price of your items are", total)
