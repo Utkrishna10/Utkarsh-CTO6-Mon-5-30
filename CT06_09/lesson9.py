@@ -16,7 +16,8 @@
 #     orange = orange * 0.90
 # total = apple + orange
 # print("The total price of your items are $", total)
+hotday = 0
 for count in range(7):
     daytemp = int(input("What is the tempreture today? "))
     if daytemp >= 30:
-        hotday = hotday
+        hotday = hotday + 1
