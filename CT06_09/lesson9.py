@@ -7,4 +7,4 @@
 # else:
 #     print("Sorry. You were wrong. The correct answer was",num)
 Apple = int(input("How many apples would you like to buy? "))
-Orange = int(input())
+Orange = int(input("How many oranges would you like "))
