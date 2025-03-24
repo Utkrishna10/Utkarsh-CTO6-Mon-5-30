@@ -22,4 +22,4 @@
 #     if daytemp >= 30:
 #         hotday = hotday + 1
 # print("The amount of days that you recorded a tempreture over 30 degrees in this week is", str(hotday)+". ")
-num = int(input("What number would you like to check"))
+num = int(input("What number would you like to check? "))
