@@ -15,4 +15,4 @@ if apple >= 5:
 if orange >= 5:
     orange = orange * 0.90
 total = apple + orange
-print("The total price of your items are", total)
+print("The total price of your items are $", total)
