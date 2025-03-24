@@ -16,9 +16,9 @@
 #     orange = orange * 0.90
 # total = apple + orange
 # print("The total price of your items are $", total)
-hotday = 0
-for count in range(7):
-    daytemp = int(input("What is the tempreture today? "))
-    if daytemp >= 30:
-        hotday = hotday + 1
-print("The amount of days that you recorded a tempreture over 30 degrees in this week is", str(hotday)+". ")
+# hotday = 0
+# for count in range(7):
+#     daytemp = int(input("What is the tempreture today? "))
+#     if daytemp >= 30:
+#         hotday = hotday + 1
+# print("The amount of days that you recorded a tempreture over 30 degrees in this week is", str(hotday)+". ")
