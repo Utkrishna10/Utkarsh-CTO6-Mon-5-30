@@ -17,4 +17,4 @@
 # total = apple + orange
 # print("The total price of your items are $", total)
 for count in range(7):
-    daytemp +
+    daytemp = int(input("What is the "))
