@@ -22,8 +22,8 @@ import random
 #     if daytemp >= 30:
 #         hotday = hotday + 1
 # print("The amount of days that you recorded a tempreture over 30 degrees in this week is", str(hotday)+". ")
-num = int(input("What number would you like to check? "))
-if num >= 0:
-    print("Your number is a positive number! ")
-else:
-    print("Your number is a negative number! ")
+# num = int(input("What number would you like to check? "))
+# if num >= 0:
+#     print("Your number is a positive number! ")
+# else:
+#     print("Your number is a negative number! ")
