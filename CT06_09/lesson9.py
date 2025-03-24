@@ -6,4 +6,4 @@
 #     print("Congratulations! You were correct!")
 # else:
 #     print("Sorry. You were wrong. The correct answer was",num)
-Apple = input
+Apple = int(input())
