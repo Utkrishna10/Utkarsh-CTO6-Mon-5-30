@@ -12,5 +12,5 @@ if apple >= 5:
     apple = apple * 0.60
     apple = apple/10 * 90
 if orange >= 5:
-    apple = apple * 0.90
-    apple = apple/10 * 90
+    orange = orange * 0.90
+    orange = apple/10 * 90
