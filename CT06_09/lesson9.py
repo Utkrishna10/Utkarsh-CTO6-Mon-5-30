@@ -18,3 +18,5 @@
 # print("The total price of your items are $", total)
 for count in range(7):
     daytemp = int(input("What is the tempreture today? "))
+    if daytemp >= 30:
+        hot
