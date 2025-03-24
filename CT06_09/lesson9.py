@@ -9,4 +9,5 @@
 apple = int(input("How many apples would you like to buy? "))
 orange = int(input("How many oranges would you like to buy? "))
 if apple >= 5:
+    apple = apple * 0.60
     apple = apple/10 * 90
