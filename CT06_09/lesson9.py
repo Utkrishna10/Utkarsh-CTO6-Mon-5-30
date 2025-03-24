@@ -16,3 +16,5 @@
 #     orange = orange * 0.90
 # total = apple + orange
 # print("The total price of your items are $", total)
+for count in range(7):
+    daytemp
