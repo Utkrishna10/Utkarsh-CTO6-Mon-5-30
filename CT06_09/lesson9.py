@@ -15,4 +15,4 @@ if orange >= 5:
     orange = orange * 0.90
     orange = orange/10 * 90
 total = apple + orange
-print()
+print("The total price of your i")
