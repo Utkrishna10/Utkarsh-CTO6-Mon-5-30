@@ -9,10 +9,10 @@
 apple = int(input("How many apples would you like to buy? "))
 orange = int(input("How many oranges would you like to buy? "))
 apple = apple * 0.60
+orange = orange * 0.90
 if apple >= 5:
     apple = apple/10 * 90
 if orange >= 5:
-    orange = orange * 0.90
     orange = orange/10 * 90
 total = apple + orange
 print("The total price of your items are", total)
