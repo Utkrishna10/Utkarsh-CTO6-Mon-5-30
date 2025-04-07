@@ -10,4 +10,6 @@
 #     print("Your grade is D!")
 # else:
 #     print("Your grade is F!")
-age = int()
+age = int(input("What is your age? "))
+if age <= 0:
+    
