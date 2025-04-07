@@ -12,4 +12,6 @@
 # else:
 #     print("Your number is not divisible by 3 and 7")
 ridr1 = 25
-ridr
+ridr2 = 6
+if ridr1 >= 18 or ridr2 >= 18:
+    print
