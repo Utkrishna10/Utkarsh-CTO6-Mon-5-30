@@ -14,4 +14,6 @@ age = int(input("What is your age? "))
 if age <= 0:
     print("Your age cannot be negative!")
 elif age < 18:
-    print("You are not elidgable")
+    print("You are not elidgable to vote!")
+else:
+    
