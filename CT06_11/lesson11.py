@@ -14,4 +14,5 @@
 ridr1 = 25
 ridr2 = 6
 if ridr1 >= 18 or ridr2 >= 18:
-    print()
+    print("You can ride the go kart!")
+    
