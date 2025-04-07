@@ -12,4 +12,4 @@
 #     print("Your grade is F!")
 age = int(input("What is your age? "))
 if age <= 0:
-    print("AG")
+    print("Your age cannot be negative")
