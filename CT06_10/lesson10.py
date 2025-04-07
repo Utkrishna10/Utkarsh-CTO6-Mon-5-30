@@ -16,4 +16,4 @@ if age <= 0:
 elif age < 18:
     print("You are not elidgable to vote!")
 else:
-    print
+    print("You are elidgable to vote!")
