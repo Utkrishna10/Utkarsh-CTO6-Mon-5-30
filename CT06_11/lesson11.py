@@ -5,4 +5,4 @@
 #     print("You can ride the ride!")
 # else:
 #     print("You cannot ride the ride.")
-px = int
+px = int()
