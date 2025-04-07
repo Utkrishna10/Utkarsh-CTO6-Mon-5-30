@@ -10,10 +10,10 @@
 #     print("Your grade is D!")
 # else:
 #     print("Your grade is F!")
-age = int(input("What is your age? "))
-if age <= 0:
-    print("Your age cannot be negative!")
-elif age < 18:
-    print("You are not eligible to vote!")
-else:
-    print("You are eligible to vote!")
+# age = int(input("What is your age? "))
+# if age <= 0:
+#     print("Your age cannot be negative!")
+# elif age < 18:
+#     print("You are not eligible to vote!")
+# else:
+#     print("You are eligible to vote!")
