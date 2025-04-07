@@ -6,8 +6,8 @@
 # else:
 #     print("You cannot ride the ride.")
 # px = int(input("What is the price of the item?"))
-num = int(input("What is your number? "))
-if num%3 == 0 and num%7 == 0:
-    print("Your number is divisible by 3 and 7!")
-else:
-    print("Your number is not divisible by 3 and 7")
+# num = int(input("What is your number? "))
+# if num%3 == 0 and num%7 == 0:
+#     print("Your number is divisible by 3 and 7!")
+# else:
+#     print("Your number is not divisible by 3 and 7")
