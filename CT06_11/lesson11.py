@@ -10,4 +10,4 @@ num = int(input("What is your number? "))
 if num%3 == 0 and num%7 == 0:
     print("Your number is divisible by 3 and 7!")
 else:
-    ("Your number is not divisible by ")
+    print("Your number is not divisible by 3 and 7")
