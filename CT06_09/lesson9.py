@@ -33,9 +33,9 @@ import random
 #     print("Congratulations! You were correct!")
 # else:
 #     print("Sorry. You were wrong. The correct answer was",num)
-password = "I like chips"
-passguess = input("What do you think the password is? ")
-if password == passguess:
-    print("Login successful! ")
-else:
-    print("Login unsuccessful. Please try again.")
+# password = "I like chips"
+# passguess = input("What do you think the password is? ")
+# if password == passguess:
+#     print("Login successful! ")
+# else:
+#     print("Login unsuccessful. Please try again.")
