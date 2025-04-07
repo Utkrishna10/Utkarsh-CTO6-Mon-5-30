@@ -11,7 +11,7 @@
 #     print("Your number is divisible by 3 and 7!")
 # else:
 #     print("Your number is not divisible by 3 and 7")
-ridr1 = 25
+ridr1 = 3
 ridr2 = 6
 if ridr1 >= 18 or ridr2 >= 18:
     print("You can ride the go kart!")
