@@ -23,7 +23,7 @@
 # else:
 #     print("That is a good color!")
 day = input("What day is it today? ")
-if not day == "saturday" or not day == "sunday":
+if not day == "saturday" and not day == "sunday":
     print("It is not the weekend yet. Sorry!")
 else:
     print("It is the weekend! Hooray!")
