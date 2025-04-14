@@ -21,4 +21,4 @@ color = input("Choose a color. ")
 if not color == "green":
     print("Sorry. Try again!")
 else:
-    print("")
+    print("That is a good color!")
