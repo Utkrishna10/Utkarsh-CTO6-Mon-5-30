@@ -17,8 +17,8 @@
 #     print("You can ride the go kart!")
 # else:
 #     print("You cannot ride the go kart.")
-color = input("What is your color? ")
-if not color == "green":
-    print("Sorry. Try again!")
-else:
-    print("That is a good color!")
+# color = input("What is your color? ")
+# if not color == "green":
+#     print("Sorry. Try again!")
+# else:
+#     print("That is a good color!")
