@@ -27,8 +27,8 @@
 #     print("It is not the weekend yet. Sorry!")
 # else:
 #     print("It is the weekend! Hooray!")
-password = input("What do you think the password is? ")
-if not password == "Python123":
-    print("Access denied. Sorry!")
-else:
-    print("Welcome!")
+# password = input("What do you think the password is? ")
+# if not password == "Python123":
+#     print("Access denied. Sorry!")
+# else:
+#     print("Welcome!")
