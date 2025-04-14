@@ -24,4 +24,4 @@
 #     print("That is a good color!")
 day = input("What day is it today? ")
 if not day == "saturday" or not day == "sunday":
-    print()
+    print("It is not the weekend yet. Sorry!")
