@@ -22,4 +22,6 @@
 #     print("Sorry. Try again!")
 # else:
 #     print("That is a good color!")
-day = input(W)
+day = input("What day is it today? ")
+if not day == "saturday" or not day == "sunday":
+    print()
