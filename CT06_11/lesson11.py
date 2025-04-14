@@ -18,7 +18,7 @@
 # else:
 #     print("You cannot ride the go kart.")
 color = input("Choose a color. ")
-if color != "green":
+if not color == "green":
     print("Sorry. Try again!")
 else:
     print()
