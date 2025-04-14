@@ -28,3 +28,5 @@
 # else:
 #     print("It is the weekend! Hooray!")
 password = input("What do you think the password is? ")
+if not password == "Python123":
+    print()
