@@ -25,3 +25,5 @@
 day = input("What day is it today? ")
 if not day == "saturday" or not day == "sunday":
     print("It is not the weekend yet. Sorry!")
+else:
+    print()
