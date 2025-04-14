@@ -22,3 +22,4 @@
 #     print("Sorry. Try again!")
 # else:
 #     print("That is a good color!")
+day = input
