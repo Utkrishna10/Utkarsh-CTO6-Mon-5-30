@@ -22,8 +22,8 @@
 #     print("Sorry. Try again!")
 # else:
 #     print("That is a good color!")
-day = input("What day is it today? ")
-if not day == "saturday" and not day == "sunday":
-    print("It is not the weekend yet. Sorry!")
-else:
-    print("It is the weekend! Hooray!")
+# day = input("What day is it today? ")
+# if not day == "saturday" and not day == "sunday":
+#     print("It is not the weekend yet. Sorry!")
+# else:
+#     print("It is the weekend! Hooray!")
