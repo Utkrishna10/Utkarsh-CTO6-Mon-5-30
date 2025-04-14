@@ -4,4 +4,4 @@ for letter in word:
     if letter == "o" and letter == "e":
         print("This word is valid!")
     else:
-        print("This word ")
+        print("This word invalid. Sorry!")
