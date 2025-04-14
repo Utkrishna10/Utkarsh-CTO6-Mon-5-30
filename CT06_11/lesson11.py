@@ -27,3 +27,4 @@
 #     print("It is not the weekend yet. Sorry!")
 # else:
 #     print("It is the weekend! Hooray!")
+password = 
